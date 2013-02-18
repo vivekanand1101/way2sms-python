@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# :File  : sendsms2.py 
+# :Author: Brijin S
+
 import sys
 import time
 from   urlparse import urlparse,parse_qs
